@@ -9,4 +9,10 @@ public class LoginTest {
 	{
 		System.out.println("open app");
 	}
+	
+	@Test
+	public void logoutTest()
+	{
+		System.out.println("Logout");
+	}
 }
