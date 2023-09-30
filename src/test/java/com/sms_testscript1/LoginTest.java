@@ -7,6 +7,6 @@ public class LoginTest {
 	@Test
 	public void open()
 	{
-		System.out.println("open the app");
+		System.out.println("open app");
 	}
 }
