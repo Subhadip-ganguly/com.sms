@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class HomeTest {
 
-	@Test
+	@Test(groups = {"smoke","regression"})
 	public void close()
 	{
 		System.out.println("close the app");
